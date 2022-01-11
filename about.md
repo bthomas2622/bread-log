@@ -12,6 +12,6 @@ I knew becoming a wizard takes time, energy, and focus. I think that's why so ma
 
 Ben Thomas
 
-| ![First Loaf - April 7, 2020](https://user-images.githubusercontent.com/15069517/148862086-42bb42aa-c807-46bb-aa89-67b476822a8d.png) | 
+| ![First Loaf - April 7, 2020 (was too nervous to score it!)](https://user-images.githubusercontent.com/15069517/148862086-42bb42aa-c807-46bb-aa89-67b476822a8d.png) | 
 |:--:| 
-| *First Loaf, April 7, 2020* |
+| *First Loaf - April 7, 2020 (was too nervous to score it!)* |

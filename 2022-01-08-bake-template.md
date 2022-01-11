@@ -2,10 +2,12 @@
 layout: post
 title:  "Bake Template"
 date:   2022-01-08 15:02:40 -0800
+category: [Ancient Grain]
 ---
-### Recipe
 
-### <=4 Sentence Review
+### <=4 Sentence Bake Review
+
+### Recipe
 
 ### Hot Takes + Notes
 

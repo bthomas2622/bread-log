@@ -5,9 +5,12 @@ date:   2022-01-08 15:02:40 -0800
 category: [Ancient Grain]
 ---
 
-### <=4 Sentence Bake Review
+<=4 sentence bake summary
 
 ### Recipe
+
+-
+-
 
 ### Hot Takes + Notes
 

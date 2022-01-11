@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Bread Log
+title: BREAD LOG
 email: benthomasdeveloper@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bread Log is Ben Thomas's Sourdough Blog. A selection of recipe reactions, misteps, seeds, and sweet sweet crumb.
@@ -28,6 +28,9 @@ url: "https://bthomas2622.github.io" # the base hostname & protocol for your sit
 twitter_username: freeBrunch
 github_username:  bthomas2622
 author: Ben Thomas
+exclude: [2022-01-08-bake-template.md]
+timezone: America/Los_Angeles
+show_excerpts: true
 
 # Build settings
 theme: minima

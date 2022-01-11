@@ -5,20 +5,19 @@ date:   2022-01-11 12:28:00 -0800
 categories: [Ancient Grain, Epic Fail, Tartine]
 ---
 
-### <=4 Sentence Bake Review
 I am back at it after a long break. I attempted a new recipe using majority [Kamut (khorasan)](https://en.wikipedia.org/wiki/Khorasan_wheat) flour. Results can be summed up in 1 word. FLAT! 
 
 ### Recipe
 This recipe is from [Tartine Book No. 3](https://www.amazon.com/dp/B00F8H0FKU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
 
 **2 Loaves**
-Whole-grain Kamut flour - 600g
-Medium-strong wheat flour, sifted - 200g
-High-extraction wheat flour - 200g
-Wheat germ - 70g
-Water - 850g
-Leaven - 150g
-Fine sea salt - 25g
+- Whole-grain Kamut flour - 600g
+- Medium-strong wheat flour, sifted - 200g
+- High-extraction wheat flour - 200g
+- Wheat germ - 70g
+- Water - 850g
+- Leaven - 150g
+- Fine sea salt - 25g
 
 ### Hot Takes + Notes
 I was very excited to try this new ancient grain flour type for a sourdough loaf. I ordered it special from [Central Milling](https://centralmilling.com/) since I couldn't find it locally. 
@@ -26,6 +25,7 @@ I was very excited to try this new ancient grain flour type for a sourdough loaf
 [Chad Robertson](https://tartinebakery.com/about), the author of [Tartine Book No. 3](https://www.amazon.com/dp/B00F8H0FKU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) did speak about how these ancient grains have less gluten than contemporary wheat varieties so building strength in the dough is more of a challenge. 
 
 **What went wrong:**
+
 In the end I was not successful at building dough strength and that resulted in exceedingly flat loaves!
 
 **Things to fix for next time:**

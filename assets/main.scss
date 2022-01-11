@@ -2,13 +2,50 @@
 ---
 
 /* Override theme defaults */
-// $base-font-family: HelveticaNeu;
-// $brand-color: orange;
+// $brand-color: darken(red, 25%);
+// $brand-color-light:     lighten($brand-color, 40%);
+// $brand-color-dark:      darken($brand-color, 25%);
+
+// $site-title-color:      $brand-color-dark;
+
+// $text-color:            #111111;
+// $background-color:      #fdfdfd;
+// $code-background-color: #eeeeff;
+
+// $link-base-color:       #2a7ae2;
+// $link-visited-color:    darken($link-base-color, 15%);
+// $link-hover-color:      $text-color;
+
+// $border-color-01:       $brand-color-light;
+// $border-color-02:       lighten($brand-color, 35%);
+// $border-color-03:       $brand-color-dark;
+
+// $table-text-color:      lighten($text-color, 18%);
+// $table-zebra-color:     lighten($brand-color, 46%);
+// $table-header-bg-color: lighten($brand-color, 43%);
+// $table-header-border:   lighten($brand-color, 37%);
+// $table-border-color:    $border-color-01;
 
 /* load _sass/minima.scss */
 @import "minima";
 
 /* Put any custom CSS here */
 // body {
-//   color: rgb(91, 52, 38);
+//   background-color: #714a2f09;
 // }
+
+// .site-header {
+//   border-top: 5px solid #714b2f;
+//   border-bottom: 1px solid #714a2f7c;
+//   // min-height: 55.95px;
+//   // position: relative;
+// }
+
+// .site-footer {
+//   border-top: 1px solid #714a2f7c;
+// }
+
+.site-nav .page-link {
+  font-size: larger;
+}
+

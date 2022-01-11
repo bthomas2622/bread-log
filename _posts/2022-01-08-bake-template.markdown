@@ -5,7 +5,7 @@ date:   2022-01-08 15:02:40 -0800
 ---
 ### Recipe
 
-### 4 Sentence Review
+### <=4 Sentence Review
 
 ### Hot Takes + Notes
 

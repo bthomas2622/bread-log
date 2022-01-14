@@ -49,3 +49,12 @@
   font-size: larger;
 }
 
+.site-header {
+  // /Users/bthomas2622/Documents/bread-log/images/css/subtle_dots_brown_1.png
+  background: url("subtle_dots_brown_4.png");
+  min-height: 50px;
+}
+
+.site-header .wrapper {
+  background-color: $background-color;
+}

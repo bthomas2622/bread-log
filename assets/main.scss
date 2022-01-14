@@ -26,35 +26,91 @@
 // $table-header-border:   lighten($brand-color, 37%);
 // $table-border-color:    $border-color-01;
 
+$bread-color: #b37a4b;
+$bread-color-light: lighten($bread-color, 40%);
+$bread-color-highlight: lighten($bread-color, 10%);
+$bread-color-super-light: lighten($bread-color, 48%);
+$bread-color-dark: darken($bread-color, 25%);
+$bread-color-super-dark: darken($bread-color, 50%);
+
+$border-color-01: $bread-color-light;
+$border-color-02: lighten($bread-color, 35%);
+$border-color-03: $bread-color-dark;
+
+$table-zebra-color:     lighten($bread-color, 46%);
+$table-header-bg-color: lighten($bread-color, 43%);
+$table-header-border:   lighten($bread-color, 37%);
+$table-border-color:    $border-color-01;
+
+$brand-color: $bread-color;
+
 /* load _sass/minima.scss */
 @import "minima";
 
 /* Put any custom CSS here */
-// body {
-//   background-color: #714a2f09;
-// }
-
-// .site-header {
-//   border-top: 5px solid #714b2f;
-//   border-bottom: 1px solid #714a2f7c;
-//   // min-height: 55.95px;
-//   // position: relative;
-// }
-
-// .site-footer {
-//   border-top: 1px solid #714a2f7c;
-// }
-
 .site-nav .page-link {
   font-size: larger;
 }
 
 .site-header {
   // /Users/bthomas2622/Documents/bread-log/images/css/subtle_dots_brown_1.png
-  background: url("subtle_dots_brown_4.png");
+  background-color: $bread-color;
   min-height: 50px;
+  border-top: 5px solid $border-color-03;
+  border-bottom: 1px solid $border-color-01;
 }
 
-.site-header .wrapper {
+.page-content {
+  background-color: $bread-color-light;
+}
+
+.wrapper {
   background-color: $background-color;
 }
+
+blockquote {
+  border-left: 4px solid $border-color-01;
+}
+
+pre,
+code {
+  border: 1px solid $border-color-01;
+}
+
+table {
+  border: 1px solid $table-border-color;
+  tr {
+    &:nth-child(even) {
+      background-color: $table-zebra-color;
+    }
+  }
+  th {
+    background-color: $table-header-bg-color;
+    border: 1px solid $table-header-border;
+  }
+  td {
+    border: 1px solid $table-border-color;
+  }
+}
+
+.post-title {
+  padding-top: 10px;
+}
+
+.post-list-heading {
+  padding-top: 10px;
+} 
+
+.page-content p a {
+  text-decoration: solid underline $bread-color;
+}
+
+// .page-content p a:hover {
+//   color: black;
+//   text-decoration: solid underline $bread-color-super-dark;
+// }
+
+// .page-content p a:visited {
+//   color: $bread-color-highlight;
+//   text-decoration: solid underline $bread-color-highlight;
+// }

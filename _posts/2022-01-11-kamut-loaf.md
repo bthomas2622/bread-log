@@ -1,23 +1,29 @@
 ---
 layout: post
-title:  "Kamut 60%"
+title:  "Khorasan 60%"
 date:   2022-01-11 12:28:00 -0800
 categories: [Ancient Grain, Epic Fail, Tartine]
 ---
 
-I am back at it after a long break. I attempted a new recipe using majority [Kamut (khorasan)](https://en.wikipedia.org/wiki/Khorasan_wheat) flour. Results can be summed up in 1 word. FLAT! 
+I am back at it after a long break. I attempted a new recipe using majority [Khorasan/Kamut](https://en.wikipedia.org/wiki/Khorasan_wheat) flour. Results can be summed up in 1 word. FLAT! 
 
 ### Recipe
 This recipe is from [Tartine Book No. 3](https://www.amazon.com/dp/B00F8H0FKU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). 
 
-**2 Loaves**
-- Whole-grain Kamut flour - 600g
-- Medium-strong wheat flour, sifted - 200g
-- High-extraction wheat flour - 200g
-- Wheat germ - 70g
-- Water - 850g
-- Leaven - 150g
-- Fine sea salt - 25g
+| Ingredients | Grams |
+|:--| 
+| Whole-grain Khorasan flour ([Central Milling](https://centralmilling.com/product/organic-whole-khorasan-flour/)) | 600 |
+| Medium-strong wheat flour, sifted ([King Arthur All-Purpose](https://shop.kingarthurbaking.com/items/organic-all-purpose-flour)) | 200 |
+| High-extraction wheat flour (50/50 [Whole Wheat](https://shop.kingarthurbaking.com/items/100-organic-whole-wheat-flour)/[All-Purpose](https://shop.kingarthurbaking.com/items/organic-all-purpose-flour)) | 200 |
+| Wheat germ | 70 |
+| Water | 850 |
+| Leaven | 150 |
+| Fine sea salt | 25 |
+
+**Number of Loaves**: 2 <br />
+**Hydration Percentage**: 85% <br />
+**Slap and Fold (Yes/No)**: No <br />
+**Autolyse (Time/No)**: 2 hours
 
 ### Hot Takes + Notes
 I was very excited to try this new ancient grain flour type for a sourdough loaf. I ordered it special from [Central Milling](https://centralmilling.com/) since I couldn't find it locally. 
@@ -35,10 +41,10 @@ In the end I was not successful at building dough strength and that resulted in 
 
 ### Pictures
 
-| ![Kamut Preshaping](https://user-images.githubusercontent.com/15069517/149021966-baf2e206-107f-4a6d-b417-ac5c9f275df6.jpg) | 
+| ![Preshaping](https://user-images.githubusercontent.com/15069517/149021966-baf2e206-107f-4a6d-b417-ac5c9f275df6.jpg) | 
 |:--:| 
-| *Kamut Preshaping - yikes!* |
+| *Preshaping - yikes!* |
 
-| ![Kamut Loaves](https://user-images.githubusercontent.com/15069517/149021972-2f2077ec-650c-4c1e-b355-e52bc1a3d484.jpg) | 
+| ![Final Loaves](https://user-images.githubusercontent.com/15069517/149021972-2f2077ec-650c-4c1e-b355-e52bc1a3d484.jpg) | 
 |:--:| 
-| *Kamut Loaves - flat earthers* |
+| *Final Loaves - flat earthers* |

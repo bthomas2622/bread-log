@@ -102,15 +102,10 @@ table {
 } 
 
 .page-content p a {
-  text-decoration: solid underline $bread-color;
+  // text-decoration: solid underline $bread-color 1px;
+  font-weight: bold;
 }
 
-// .page-content p a:hover {
-//   color: black;
-//   text-decoration: solid underline $bread-color-super-dark;
-// }
-
-// .page-content p a:visited {
-//   color: $bread-color-highlight;
-//   text-decoration: solid underline $bread-color-highlight;
-// }
+.page-content table a {
+  font-weight: bold;
+}

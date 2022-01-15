@@ -21,7 +21,7 @@
 title: BREAD LOG
 email: benthomasdeveloper@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Bread Log is Ben Thomas's Sourdough Blog. A selection of recipe reactions, misteps, seeds, and sweet sweet crumb.
+  Bread Log is Ben Thomas's Sourdough Blog. A wheaty harvest of recipe reactions, learnings, reviews and crumb comparisons.
 domain: bthomas2622.github.io
 baseurl: "/bread-log" # the subpath of your site, e.g. /blog
 url: "https://bthomas2622.github.io" # the base hostname & protocol for your site, e.g. http://example.com

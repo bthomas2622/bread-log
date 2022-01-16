@@ -31,6 +31,7 @@ author: Ben Thomas
 exclude: [2022-01-08-bake-template.md]
 timezone: America/Los_Angeles
 show_excerpts: true
+google_analytics: G-Z7H2MK04XL 
 
 # Build settings
 theme: minima

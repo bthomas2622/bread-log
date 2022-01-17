@@ -38,6 +38,7 @@ In the end I was not successful at building dough strength and that resulted in 
 1. Make sure starter is truly ready to rumble. Billy the Sourdough Starter has been in maintenance mode for some time now coming out of the fridge sporadically. He needs some more love before attempting this loaf again. My leaven did not pass the float test but I ran out of time. 
 2. Potentially use less water, maybe attempting the full prescribed water amount was ambitious as my dough was super slack. 
 3. Preshape twice to give dough more structure.
+4. Maybe shorter Autolyse? I understand too long of an Autolyse can tire out a dough. 
 
 ### Pictures
 

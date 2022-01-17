@@ -2,7 +2,7 @@
 layout: post
 title:  "Khorasan 60%"
 date:   2022-01-11 12:28:00 -0800
-categories: [Ancient Grain, Epic Fail, Tartine]
+categories: [Ancient Grain, Bake]
 ---
 
 I am back at it after a long break. I attempted a new recipe using majority [Khorasan/Kamut](https://en.wikipedia.org/wiki/Khorasan_wheat) flour. Results can be summed up in 1 word. FLAT! 
@@ -43,7 +43,7 @@ In the end I was not successful at building dough strength and that resulted in 
 
 | ![Preshaping](https://user-images.githubusercontent.com/15069517/149021966-baf2e206-107f-4a6d-b417-ac5c9f275df6.jpg) | 
 |:--:| 
-| *Preshaping - yikes!* |
+| *Preshaping - cow pies* |
 
 | ![Final Loaves](https://user-images.githubusercontent.com/15069517/149021972-2f2077ec-650c-4c1e-b355-e52bc1a3d484.jpg) | 
 |:--:| 

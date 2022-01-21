@@ -36,6 +36,8 @@ This recipe is from [Tartine Book No. 3](url).
 
 ### Hot Takes + Notes
 
+**Taste**
+
 ### Pictures
 
 | ![Image Text](github user content link) | 

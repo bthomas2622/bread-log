@@ -45,21 +45,21 @@ From [_The Perfect Loaf_](https://www.theperfectloaf.com/guides/how-to-stretch-a
 
 > Having sufficient but not excessive dough strength is extremely important when baking sourdough bread. We want our dough to be strong enough to hold on to the gaseous byproducts of fermentation but not so strong it's not able to expand and relax outward and upward in the oven. This guide on how to stretch and fold sourdough focuses on dough strengthening during bulk fermentation to get the dough just strong enough—but not too strong. This just enough is the dough's strength sweet spot, the point which eventually yields a loaf with a tall rise and a beautiful internal structure.
 
-This was my first time more or less working with a proper ancient grain when baking sourdough. Ancient grain's pose a different challenge than traditional bread flours because they typically possess lower quantities of [gluten](https://en.wikipedia.org/wiki/Gluten). The gluten protein _excels at giving dough strength_ which is why gluten comprises 75-85% of the total protein in [bread wheat](https://en.wikipedia.org/wiki/Common_wheat).
+This was my first time more or less working with a proper ancient grain when baking sourdough. Ancient grains pose a different challenge than traditional bread flours because they typically possess lower quantities of [gluten](https://en.wikipedia.org/wiki/Gluten). The gluten protein _excels at giving dough strength_ which is why gluten comprises 75-85% of the total protein in [bread wheat](https://en.wikipedia.org/wiki/Common_wheat).
 
 The Khorasan needed more help getting dough strength. And the turn and folds during bulk fermentation outlined by the recipe I was following were not enough. But we got there!
 
-#### Taste
+#### **Taste**
 
-My Khorasan 50% tasted very similar to your traditional whole wheat sourdough round. A hearty bread that was lifted by a nice sweetness that lingered. I also found the crust crisped up nicely in a fashion I am only able to achieve when adding rye to a whole wheat loaf. I'd like to try and achieve even more lift in the loaf next time. The nutty, earthy, complexity of a high protein flour combined with the airiness and aroma of a voluminous fluffy white loaf is the dream.
+My Khorasan 50% tasted very similar to your traditional rich whole wheat sourdough round on the denser side of life. A hearty bread that was lifted by a nice sweetness that lingered. I also found the crust crisped up nicely in a fashion I am only able to achieve when adding rye to a whole wheat loaf. I'd like to try and achieve even more lift in the loaf next time. The nutty, earthy, complexity of a high protein flour combined with the airiness and aroma of a voluminous fluffy white loaf is the dream.
 
-#### Crouton Rating
+#### **Crouton Rating**
 
 My partner and I make kale caesar salad almost weekly so every sourdough is subjected to the crouton test!
 
 | Meh | Snackable | **YUM** | Salad Elevator | Divine | Forgot to add the lettuce |
 
-I would say this loaf had average crouton potential. The individual croutons were divine as crispy garlic bread, but the sweetness of the Khorasan did not cut through our rich caesar dressing like I like a crouton to do. We did make croutons with it the day of the bake which is a bit too fresh for a proper crouton.
+I would say this loaf had average crouton potential. The individual croutons were divine as crispy garlic bread, but the Khorasan's sweetness did not cut through our rich caesar dressing like I like a crouton to do. We did make croutons with it the day of the bake which is a bit too fresh for a proper crouton.
 
 ### Pictures
 

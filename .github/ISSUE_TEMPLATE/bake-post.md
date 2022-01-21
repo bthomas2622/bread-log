@@ -7,12 +7,12 @@ assignees: ''
 
 ---
 
-uncomment---
+UNCOMMENT---
 layout: post
 title:  "Blog Post Title"
-date:   2022-01-11 12:28:00 -0800
+date:   2022-01-11 00:15:00 -0800
 categories: [Bake, Ancient-Grain]
-uncomment---
+UNCOMMENT---
 
 < 4 Sentence Summary
 
@@ -32,11 +32,17 @@ This recipe is from [Tartine Book No. 3](url).
 **Number of Loaves**: 2 <br />
 **Hydration Percentage**: 85% <br />
 **Slap and Fold (Yes/No)**: No <br />
-**Autolyse (Time/No)**: 2 hours
+**Autolyse (Time/No)**: 2 hours <br />
+**Extra Notes**:
 
 ### Hot Takes + Notes
 
-**Taste**
+#### Taste
+
+#### Crouton Rating
+
+| Meh | Snackable | **YUM** | Salad Elevator | Divine | Forgot to add the lettuce |
+
 
 ### Pictures
 

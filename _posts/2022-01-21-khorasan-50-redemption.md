@@ -27,7 +27,7 @@ This recipe is a modified version of the Kamut 60% loaf from [Tartine Book No. 3
 
 ### Hot Takes + Notes
 
-It's incredible how changing almost nothing about the recipe except 5 min of kneading via slap and fold completely changed the outcome. This is the exact same recipe as my [attempt last week](https://bthomas2622.github.io/bread-log/bake/ancient-grain/2022/01/15/khorasan-50.html) where I achieved the rise of a pizza. 
+It's incredible how changing almost nothing about the recipe except 5 min of kneading via slap and fold completely changed the outcome. This is the exact same recipe as my [attempt last week]({{ site.baseurl }}{% post_url 2022-01-15-khorasan-50 %}) where I achieved the rise of a pizza. 
 
 I am really learning a lot about dough elasticity vs. extensibility and how important that is for the final result. 
 

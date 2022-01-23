@@ -28,15 +28,23 @@ url: "https://bthomas2622.github.io" # the base hostname & protocol for your sit
 twitter_username: freeBrunch
 github_username:  bthomas2622
 author: Ben Thomas
-exclude: [2022-01-08-bake-template.md]
 timezone: America/Los_Angeles
 show_excerpts: true
 google_analytics: G-Z7H2MK04XL 
+disqus:
+  shortname: bread-log
+header_pages:
+  - about.md
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  social_links:
+    twitter: freeBrunch
+    github: bthomas2622
 
 # Exclude from processing.
 # The following items will not be processed, by default.

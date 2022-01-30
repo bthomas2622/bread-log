@@ -35,6 +35,8 @@ disqus:
   shortname: bread-log
 header_pages:
   - about.md
+  - resources.md
+  - showstoppers.md
 
 # Build settings
 theme: minima

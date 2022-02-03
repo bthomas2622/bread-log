@@ -35,6 +35,7 @@ disqus:
   shortname: bread-log
 header_pages:
   - about.md
+  - categories.md
   - resources.md
   - showstoppers.md
 

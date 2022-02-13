@@ -10,4 +10,4 @@ These bakes are the crème de la crème, sourdough enlightenment, legends of the
 |:--:| 
 | *Mytikas, the highest peak of Mount Olympus, home of the Greek gods, and these loaves* |
 
-I'll let you know when I bake one...
+1. [Seeded Sourdough Splendor]({{ site.baseurl }}{% post_url 2022-02-12-seeded-sourdough-2 %})

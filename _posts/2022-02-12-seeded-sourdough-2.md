@@ -2,7 +2,7 @@
 layout: post
 title:  "Seeded Sourdough Splendor"
 date:   2022-02-12 00:15:00 -0800
-categories: [Bake, Seeded]
+categories: [Seeded]
 ---
 
 Sometimes you need a few (or more) whacks at a recipe to make necessary adjustments and get every detail just right. After many meditations I have interpreted the will of the seeds and reached seeded sourdough nirvana! 

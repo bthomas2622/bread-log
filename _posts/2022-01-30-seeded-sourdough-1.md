@@ -2,7 +2,7 @@
 layout: post
 title:  "Seeded Sourdough: Simply Delicious"
 date:   2022-01-30 00:15:00 -0800
-categories: [Bake, Seeded]
+categories: [Seeded]
 ---
 
 The [Seeded Sourdough](https://www.theperfectloaf.com/seeded-sourdough/) from [The Perfect Loaf](https://www.theperfectloaf.com/) is one of my all time favorite sourdough recipes. A beautiful medley of golden flax seeds, black sesame, sunflower seeds, and fennel seed.

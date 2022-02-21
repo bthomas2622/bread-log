@@ -2,7 +2,7 @@
 layout: post
 title:  "Khorasan 50%: Redemption"
 date:   2022-01-20 12:28:00 -0800
-categories: [Bake, Ancient-Grain]
+categories: [Ancient-Grain]
 ---
 
 REDEMPTION. I tried the last tool I could think of to build strength in my [Khorasan](https://en.wikipedia.org/wiki/Khorasan_wheat) 50% loaf. That tool was [slap and fold](https://www.theperfectloaf.com/guides/slap-and-fold/) and it produced a sweet, tender, and crunchy crusted ancient loaf. 

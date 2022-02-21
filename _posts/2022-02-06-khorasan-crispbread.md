@@ -2,7 +2,7 @@
 layout: post
 title:  "Khorasan Crispbread: Fancy Sourdough Cracker"
 date:   2022-02-07 00:15:00 -0800
-categories: [Bake, Ancient-Grain, Crispbread]
+categories: [Ancient-Grain, Crispbread]
 ---
 
 I had some leftover [Khorasan/Kamut](https://en.wikipedia.org/wiki/Khorasan_wheat) flour from my [Khorasan 50% adventures]({{ site.baseurl }}{% post_url 2022-01-21-khorasan-50-redemption %}) so I decided to trial run a ["crispbread"](https://en.wikipedia.org/wiki/Crispbread) recipe from [Tartine Book No. 3](https://www.amazon.com/dp/B00F8H0FKU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1). It was a rad experiment but I think it might have been my last crispbread.

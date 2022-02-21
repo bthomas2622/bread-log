@@ -19,15 +19,15 @@ UNCOMMENT---
 ### Recipe
 This recipe is from [Tartine Book No. 3](url). 
 
-| Ingredients | Grams | Baker's Percentage |
+| Ingredients | Weight | Baker's Percentage |
 |:--| 
-| Whole-grain Khorasan flour ([Central Milling](https://centralmilling.com/product/organic-whole-khorasan-flour/)) | 600 | |
-| Medium-strong wheat flour, sifted ([King Arthur All-Purpose](https://shop.kingarthurbaking.com/items/organic-all-purpose-flour)) | 200 | |
-| High-extraction wheat flour (50/50 [Whole Wheat](https://shop.kingarthurbaking.com/items/100-organic-whole-wheat-flour)/[All-Purpose](https://shop.kingarthurbaking.com/items/organic-all-purpose-flour)) | 200 | |
-| Wheat germ | 70 | |
-| Water | 850 | |
-| Leaven | 150 | |
-| Fine sea salt | 25 | |
+| Whole-grain Khorasan flour ([Central Milling](https://centralmilling.com/product/organic-whole-khorasan-flour/)) | g | % |
+| Medium-strong wheat flour, sifted ([King Arthur All-Purpose](https://shop.kingarthurbaking.com/items/organic-all-purpose-flour)) | g | % |
+| Whole wheat flour ([Whole Wheat](https://shop.kingarthurbaking.com/items/100-organic-whole-wheat-flour)) | g | % |
+| Wheat germ | g | % |
+| Water | g | % |
+| Leaven | g | % |
+| Fine sea salt | g | % |
 
 **Number of Loaves**: 2 <br />
 **Hydration Percentage**: 85% <br />

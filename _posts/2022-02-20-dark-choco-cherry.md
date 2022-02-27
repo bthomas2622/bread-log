@@ -2,7 +2,7 @@
 layout: post
 title:  "Dark Chocolate Cherry Sourdough"
 date:   2022-02-21 00:15:00 -0800
-categories: [Chocolate, Fruit]
+categories: [Chocolate-Fruit]
 ---
 
 I baked sourdough bread that tasted somewhere in between a cinnamon raisin bagel and a [pain au chocolat](https://en.wikipedia.org/wiki/Pain_au_chocolat). WAT?

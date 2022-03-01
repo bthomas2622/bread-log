@@ -11,7 +11,7 @@ UNCOMMENT---
 layout: post
 title:  "Blog Post Title"
 date:   2022-01-11 00:15:00 -0800
-categories: [Bake, Ancient-Grain]
+categories: [Ancient-Grain]
 UNCOMMENT---
 
 < 4 Sentence Summary

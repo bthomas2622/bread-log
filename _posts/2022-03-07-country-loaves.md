@@ -9,7 +9,7 @@ This is Bread Log's first ongoing post. A saga of flour and water. A quest to ba
 
 1. [Bake No. 1 (03/07/22)](#bake-no-1)
 
-### Background
+### Setting the Table
 
 Pain de dampagne (country bread in French) on [Wikipedia](https://en.wikipedia.org/wiki/Pain_de_campagne):
 

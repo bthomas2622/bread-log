@@ -51,15 +51,13 @@ Date: 03/07/22 <br />
 Flour: [Central Milling Organic Type 80 Wheat Flour](https://centralmilling.com/product/organic-type-80-wheat-flour/) <br />
 Water (guess since [bassinage](https://www.sourdough.co.uk/glossary/bassinage/) added by feel): ~775g
 
-#### Thoughts
+#### **Thoughts**
 
 Wow definitely the freshest, highest quality dough I've every worked with. It felt like soft and sticky. And the final result was so much more tender and sweet than the grocery store bread flour I normally bake with. I tried really hard to get the hydration right, being much more deliberate and slow during the initial mix and folding additional water after some light kneading. I think I could push it a tad further with more experience. I'd love to see an even more open crumb and higher rise. I could have also shaped the loaf more aggressively to help drive it upward during the bake.
 
-#### Review
+**Review:** Supremely delicious country loaf. Light but clearly nutritious and full of character. 
 
-Supremely delicious country loaf. Light but clearly nutritious and full of character. 
-
-#### Pics
+#### **Pics**
 
 | ![Country Loaves 1](https://user-images.githubusercontent.com/15069517/157538320-60d8ad41-e1b2-41ff-8785-a4714cee631e.jpg) | 
 |:--:| 

@@ -9,6 +9,8 @@ This is Bread Log's first ongoing post. A saga of flour and water. A quest to ba
 
 1. [Bake No. 1 (03/07/22)](#bake-no-1)
 
+### Background
+
 Pain de dampagne (country bread in French) on [Wikipedia](https://en.wikipedia.org/wiki/Pain_de_campagne):
 
 > Also called "French sourdough", is typically a large round loaf ("miche") made from either natural leavening or baker's yeast. Most traditional versions of this bread are made with a combination of white flour with whole wheat flour and/or rye flour, water, leavening and salt. For centuries, French villages had communal ovens where the townsfolk would bring their dough to be baked, and the loaves weighed from four to as much as twelve pounds (1.5–5.5 kg). Such large loaves would feed a family for days or weeks, until the next baking day.

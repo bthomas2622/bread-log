@@ -8,6 +8,7 @@ categories: [Country-Bread]
 This is Bread Log's first ongoing post. A saga of flour and water. A quest to bake (my) perfect country bread. An adventure so noble it cannot be contained by space and time.
 
 1. [Bake No. 1 (03/07/22)](#bake-no-1)
+2. [Bake No. 2 (03/26/22)](#bake-no-2)
 
 ### Setting the Table
 
@@ -66,6 +67,32 @@ Wow definitely the freshest, highest quality dough I've every worked with. It fe
 | ![Country Loaves 1 Crumb](https://user-images.githubusercontent.com/15069517/157538338-874c72f0-07f1-4dfd-ac0e-c24da99c6c21.jpg) | 
 |:--:| 
 | *Country #1 Crumb* |
+
+## [Bake No. 2](#bake-no-2) ##
+
+Date: 03/26/22 <br />
+Flour: 60% [Central Milling Organic Type 80 Wheat Flour](https://centralmilling.com/product/organic-type-80-wheat-flour/) / 40% [Central Milling Organic Type 85 Wheat Flour](https://centralmilling.com/product/organic-type-85/) <br />
+Water (guess since [bassinage](https://www.sourdough.co.uk/glossary/bassinage/) added by feel): ~825g
+
+#### **Thoughts**
+
+SO CLOSE to a damn perfect loaf. Needed 5 more minutes in the oven for a crackling crust. I ran out of Type 80 high-extraction flour and had to supplement the final 40% of flour with Type 85. Its actually crazy how much more water the dough tolerated with the a 0.85% [Ash](https://thebakingnetwork.com/what-does-the-ash-content-of-flour-mean/) flour than the previous bake that was 100% Type 80 flour. I am looking forward to trying a 100% Type 85 flour country loaf to see how the properties differ. I think I am liking the stronger dough feel of the Type 85 flour to the Type 80 based on my results so far. I think it has held it's shape better during shaping + baking. The final results were still exceedingly soft and tender. Almost too much so another reason why I wish I baked it longer.
+
+What is Ash? From [The Baking Network](https://thebakingnetwork.com/what-does-the-ash-content-of-flour-mean/):
+
+> The ash content of flour refers to the mineral content which is measured by burning the sample of flour to ash and then measuring what’s left. Since most of the mineral content resides in the bran and germ of the grain, high extraction flours (more whole grain flours) generally have more ash content.
+
+**Review:** Simple, flippin delicious, slightly underbaked.
+
+#### **Pics**
+
+| ![Country Loaves 2](https://user-images.githubusercontent.com/15069517/160720284-777374d4-2e94-4e59-a90a-a697a8b8871e.jpg) | 
+|:--:| 
+| *Tried to score one like a batard, came out looking like a lima bean* |
+
+| ![Country Loaves 2 Crumb](https://user-images.githubusercontent.com/15069517/160720300-e4542372-2be9-44e0-be8e-92e06c723e8e.jpg) | 
+|:--:| 
+| *Country #2 Crumb* |
 
 ## [High-Extraction Wheat Flour Addendum](#high-extrior-wheat-flour-addendum) ##
 

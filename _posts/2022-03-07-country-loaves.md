@@ -9,6 +9,7 @@ This is Bread Log's first ongoing post. A saga of flour and water. A quest to ba
 
 1. [Bake No. 1 (03/07/22)](#bake-no-1)
 2. [Bake No. 2 (03/26/22)](#bake-no-2)
+3. [Bake No. 3 (04/09/22)](#bake-no-3)
 
 ### Setting the Table
 
@@ -93,6 +94,28 @@ What is Ash? From [The Baking Network](https://thebakingnetwork.com/what-does-th
 | ![Country Loaves 2 Crumb](https://user-images.githubusercontent.com/15069517/160720300-e4542372-2be9-44e0-be8e-92e06c723e8e.jpg) | 
 |:--:| 
 | *Country #2 Crumb* |
+
+## [Bake No. 3](#bake-no-3) ##
+
+Date: 04/09/22 <br />
+Flour: 100% [Central Milling Organic Type 85 Wheat Flour](https://centralmilling.com/product/organic-type-85/) <br />
+Water (guess since [bassinage](https://www.sourdough.co.uk/glossary/bassinage/) added by feel): ~875g
+
+#### **Thoughts**
+
+My takeaway from this loaf was that there is no perfect country loaf. This loaf was heartier with the higher ash/protein content (all Type 85 rather than Type 80 on loaf #1 and blend on loaf #2). The change of pace was welcome and the loaf came out beautifully! Doing these 3 loafs in succession clearly demonstrated how important it is to be able to do the water/bassinage by feel. This dough handled MUCH more water. I do feel like I like the lighter crumb of the previous loaves when it comes to a country loaf. But it's always nice to mix it up!
+
+**Review:** Simple, flippin delicious, not as soft. Great for avocado toast and croutons, not quite as pleasant with a slab of butter.
+
+#### **Pics**
+
+| ![Country Loaves 3](https://user-images.githubusercontent.com/15069517/167214320-6007c150-5077-43f3-8e3c-ad31b2509f4d.jpg) | 
+|:--:| 
+| *Country #3* |
+
+| ![Country Loaves 3 Crumb](https://user-images.githubusercontent.com/15069517/167214341-f5c9b0c0-f1c3-41de-9f88-ed2021476320.jpg) | 
+|:--:| 
+| *Country #3 Crumb* |
 
 ## [High-Extraction Wheat Flour Addendum](#high-extrior-wheat-flour-addendum) ##
 
